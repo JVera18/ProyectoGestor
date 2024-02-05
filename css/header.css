@@ -1,0 +1,13 @@
+.nav-item a:hover{
+    background-color: rgb(52, 172, 209);
+    font-size: 17px;
+    font-weight: 90;
+    border-radius: 30px;
+  }
+
+.nav-item a:active {
+    background-color: rgb(14, 15, 4);
+    font-size: 17px;
+    border-radius: 30px;
+}
+
